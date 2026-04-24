@@ -1,4 +1,4 @@
-# 💉 Extrasploit Agent — Custom Payload Proof of Concept Research
+# 💉 Extrasploit Agent — Detection-focused research on custom .NET payload evasion. Includes MITRE ATT&CK mapping, IOC analysis, and Sigma detection rules for blue teams.
 
 > ⚠️ **DISCLAIMER:** This project was developed strictly for educational and research purposes in an isolated lab environment. No source code or binaries are provided — this repository contains **documentation and analysis only.**
 
